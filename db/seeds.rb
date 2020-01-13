@@ -7,6 +7,7 @@ Article.destroy_all
 # Clipping.destroy_all
 
 fetch_url = "https://api.nytimes.com/svc/topstories/v2/home.json?api-key=#{ENV['NYT_API_KEY']}"
+byebug
 data = JSON.parse(RestClient.get(fetch_url))
 
 data['results'].map do |article|
