@@ -18,7 +18,7 @@ To-dos include:
   - Dan Romans | [dangrammer](https://github.com/dangrammer)
 
 ## Frontend Repository
-  - [Topical Client](https://github.com/dangrammer/topical-frontend)
+  - [Topical Client](https://github.com/Lilaro/Topical-frontend)
 
 ## Ruby Version
   - ruby 2.6.1
@@ -85,7 +85,7 @@ To-dos include:
         ```
   7. run `rails db:seed` in terminal to seed database with article data
   8. run `rails s` in terminal to run server in browser at http://localhost:3000/
-  9. install and run [Topical frontend](https://github.com/dangrammer/topical-frontend)
+  9. install and run [Topical frontend](https://github.com/Lilaro/Topical-frontend)
 
   *_Note:_ `KEY_HERE` _should be characters of your choice for_ `JWT_SECRET_KEY` _and an
   individually assigned key from the New York Times developer portal for_ `NYT_API_KEY` _.
