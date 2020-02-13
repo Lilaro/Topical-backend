@@ -40,7 +40,7 @@ To-dos include:
 ## Live Demo
   Link to walkthrough video with narration:
   <br/>
-  <a href="https://www.youtube.com/watch?v=A3ZJxHjNVtE&feature=youtu.be" target="_blank">
+  <a href="https://www.youtube.com/watch?v=PoOk0inSqJg" target="_blank">
     <img 
       src="public/images/homepage.png" 
       alt="Topical walkthrough demo link to Youtube" 
